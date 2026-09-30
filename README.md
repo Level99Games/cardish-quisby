@@ -9,8 +9,11 @@ Get the latest version from the **[Releases page](https://github.com/Level99Game
 
 - **Windows 10/11:** download `Prototype-Card-Maker-Setup-<version>.exe` and run it.
   If Windows shows "Windows protected your PC", click **More info**, then **Run anyway**.
-- **Mac (Apple chip, M1 or newer):** download `Prototype-Card-Maker-<version>-mac-arm64.dmg`, open it, and drag the app
-  to Applications. The first time, right-click the app and choose **Open**, then confirm.
+- **Mac:** check your chip under  → **About This Mac**.
+  - **Apple chip (M1 or newer):** download `Prototype-Card-Maker-<version>-mac-arm64.dmg`.
+  - **Intel:** download `Prototype-Card-Maker-<version>-mac-x64.dmg`.
+
+  Open the .dmg and drag the app to Applications. The first time, right-click the app and choose **Open**, then confirm.
 
 ## Updates
 
